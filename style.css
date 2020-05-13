@@ -80,7 +80,7 @@ a:focus,
 
 /* Header */
 .hero {
-  background: url('../img/photo1.jpg') no-repeat center center/cover;
+  background: url('photo1.jpg') no-repeat center center/cover;
   height: 100vh;
   position: relative;
   color: #fff;
@@ -124,12 +124,12 @@ a:focus,
 }
 
 .hero.blog {
-  background: url("../img/tech-javascript.jpg") no-repeat center center/cover;
+  background: url("tech-javascript.jpg") no-repeat center center/cover;
   height: 40vh;
 }
 
 .hero.services {
-  background: url("../img/service-hero.jpg") no-repeat center center/cover;
+  background: url("service-hero.jpg") no-repeat center center/cover;
   height: 100vh;
 }
 
