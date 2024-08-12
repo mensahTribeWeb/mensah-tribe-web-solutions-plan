@@ -8,6 +8,7 @@ This project showcases my skills in HTML, CSS, and JavaScript, focusing on creat
 
 ## Overview
 
+
 I designed this project to incorporate key skills and techniques I've learned, including a mobile-first approach in HTML, flexible layout with Flexbox in CSS, and interactive elements using JavaScript and jQuery.
 
 ## Features
